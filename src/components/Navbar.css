@@ -1,0 +1,21 @@
+.header {
+  background-color: #adb5bd;
+  padding: 1rem;
+}
+
+.nav-list-items {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-link:link,
+.nav-link:visited {
+  text-decoration: none;
+  color: #343a40;
+}
+
+.nav-img {
+  height: 5rem;
+  border-radius: 20rem;
+}
